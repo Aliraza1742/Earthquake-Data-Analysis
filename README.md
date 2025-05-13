@@ -4,7 +4,7 @@ This project performs data cleaning, statistical analysis, visualization, and pr
 
 ---
 
-## 📄 `part1.py` – Feature Selection & Descriptive Statistics
+## 📄 `part1.pdf` – Feature Selection & Descriptive Statistics
 
 This script performs data preprocessing and basic statistical analysis on an earthquake dataset. The main operations include **feature selection**, **descriptive statistics**, **correlation analysis**, and a **summary overview**.
 
