@@ -111,7 +111,7 @@ This 3-part project takes you from **raw earthquake data to cleaned datasets, ri
 ## 🖼️ Screenshots
 
 ### 📌 Feature Distribution Visualization
-![Feature Distribution Histogram](./assets/feature_distribution.png)
+![Feature Distribution Histogram]((https://github.com/Aliraza1742/Earthquake-Data-Analysis/blob/master/part2.ipynb))
 
 ---
 
