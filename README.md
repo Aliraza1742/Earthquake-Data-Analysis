@@ -108,3 +108,34 @@ This notebook focuses on **time-based insights**, **feature engineering**, and *
 
 This 3-part project takes you from **raw earthquake data to cleaned datasets, rich visualizations, and predictive models**. The code is modular and extensible for deeper analytics or deployment.
 
+## 🖼️ Screenshots
+
+### 📌 Feature Distribution Visualization
+![Feature Distribution Histogram](./assets/feature_distribution.png)
+
+---
+
+### 📉 Null Value Analysis
+![Null Value Bar Plot](./assets/null_values.png)
+
+---
+
+### 📦 Dataset Comparison (Original vs Cleaned)
+![Dataset Count Comparison](./assets/dataset_comparison.png)
+
+---
+
+### 📈 Seasonal Decomposition
+![Seasonal Decomposition Plot](./assets/seasonal_decomposition.png)
+
+---
+
+### 🔍 Correlation Matrix Heatmap
+![Correlation Heatmap](./assets/correlation_heatmap.png)
+
+---
+
+### 🌐 Earthquake Locations (Geospatial Plot)
+![Geospatial Scatter Plot](./assets/earthquake_locations.png)
+
+
