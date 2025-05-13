@@ -120,20 +120,12 @@ This 3-part project takes you from **raw earthquake data to cleaned datasets, ri
 
 ---
 
-### 📦 Dataset Comparison (Original vs Cleaned)
-![Dataset Count Comparison](./assets/dataset_comparison.png)
-
----
 
 ### 📈 Seasonal Decomposition
 ![Seasonal Decomposition Plot](./assets/seasonal_decomposition.png)
 
 ---
 
-### 🔍 Correlation Matrix Heatmap
-![Correlation Heatmap](./assets/correlation_heatmap.png)
-
----
 
 ### 🌐 Earthquake Locations (Geospatial Plot)
 ![Geospatial Scatter Plot](./assets/earthquake_locations.png)
